@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">A French DevIT student, full stack software engineer</h3>
 
-- 🌱 I’m currently learning **React,Symfony,NodeJS**
+- 🌱 I’m currently learning **Symfony**
 
 - 👨‍💻 All of my projects are available at [lorenzo-bruno.com](lorenzo-bruno.com)
 
@@ -13,8 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/lorenzo1dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/lorenzo1dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lorenzo-bruno-ba9887188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lorenzo-bruno-ba9887188/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/lorenzo-bruno-ba9887188/](https://www.linkedin.com/in/lorenzo-bruno-ba9887188/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lorenzo-bruno-ba9887188/" height="30" width="40" /></a>
 <a href="https://discord.gg/1Lorenzo1#1579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1Lorenzo1#1579" height="30" width="40" /></a>
 </p>
 
